@@ -6,35 +6,30 @@
     "image": "IG_Sonny.jpeg",
     "bio": "My name is Micheal, I'm an aspiring full-stack developer. I want to help small businesses and entrepreneurs bring their ideas to life. Basically, I turn your requirements into reality on time and on budget. ",
     "contactmessage": "If you have an application you are interested in developing, a problem that needs solving or a project that needs rescuing, I'd love to help you with it.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "email": "micheal.aderinto@gmail.com",
+    "phone": "+44 7846226806",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
+      "street": "Cheadle Road",
+      "city": "Stockport",
       "state": "UK",
-      "zip": "ABC 123"
+      "zip": "SK8 *AD"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "http://denyyi.netlify.app",
+    "resumedownload": "http://denyyi.netlify.app",
     "social": [
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/micheal.aderinto/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/aaderinto/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "http://github.com/maderinto",
         "className": "fa fa-github"
       }
     ]
@@ -43,22 +38,22 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
+        "school": "University of Ilorin",
+        "degree": "Bachelors degree in Electrical/Electronics Engineering",
+        "graduated": "January 1996",
         "description": "Graduated with Distinction"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "company": "CallMeHelp",
+        "title": "COO",
+        "years": "April 2017 - Present",
+        "description": "Create goto market and startup roadmap"
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
+        "company": "Yemdel Media",
+        "title": " ",
         "years": "Nov 2019 - April 2020",
         "description": "Building MrQ, a gambling website."
       }
@@ -131,7 +126,7 @@
         "user": "Kareem Abdul Jabbar"
       },
       {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "text": "That Micheal must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
         "user": "Steve Wozniak... impersonator"
       }
     ]
