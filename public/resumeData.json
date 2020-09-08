@@ -1,11 +1,11 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
+    "name": "Micheal A Aderinto",
+    "occupation": "ReactJS and Python Developer",
+    "description": "Product Management by Day, Founder && Freelancer by Night.",
     "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "bio": "My name is Micheal, I'm an aspiring full-stack developer. I want to help small businesses and entrepreneurs bring their ideas to life. Basically, I turn your requirements into reality on time and on budget. ",
+    "contactmessage": "If you have an application you are interested in developing, a problem that needs solving or a project that needs rescuing, I'd love to help you with it.",
     "email": "sonny@cleverprogrammer.com",
     "phone": "+44 12 345 6789",
     "address": {
@@ -66,11 +66,11 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "35%"
       },
       {
         "name": "CSS",
-        "level": "95%"
+        "level": "35%"
       },
       {
         "name": "Git",
@@ -82,11 +82,11 @@
       },
       {
         "name": "HTML5",
-        "level": "80%"
+        "level": "40%"
       },
       {
         "name": "MongoDB",
-        "level": "80%"
+        "level": "32%"
       }
     ]
   },
